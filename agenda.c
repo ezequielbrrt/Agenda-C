@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+//Creacion de nodos
 pNodo nuevo,actual;
 
 
